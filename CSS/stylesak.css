@@ -16,6 +16,7 @@ h1{
 
 .containerone{
   background-color: black;
+  display: block;
 }
 .containertwo{
   background-color: grey;
