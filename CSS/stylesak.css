@@ -16,17 +16,19 @@ h1{
 
 .containerone{
   background-color: black;
-  display: block;
-}
+  width: 100%;}
 .containertwo{
   background-color: grey;
+  width: 100%;
 }
 .containerthree{
   background-color: black;
   height: 1000px;
+  width: 100%;
 }
 .containerfour{
   background-color: black;
+  width: 100%;
 }
 td{
 color: grey;
