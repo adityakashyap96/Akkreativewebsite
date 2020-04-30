@@ -1,0 +1,44 @@
+body{
+  margin: 0;
+  text-align: center;
+}
+hr{
+  border-color: grey;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 1030px;
+
+}
+h1{
+  color: grey;
+}
+
+.containerone{
+  background-color: black;
+  width: 50;
+}
+.containertwo{
+  background-color: grey;
+}
+.containerthree{
+  background-color: black;
+  height: 1000px;
+}
+.containerfour{
+  background-color: black;
+}
+td{
+color: grey;
+font-size: 20px;
+}
+p{
+color: grey;
+font-style: oblique;
+font-size: 20px;
+display: inline-block;
+}
+form{
+  color: grey;
+
+}
