@@ -1,29 +1,39 @@
 body{
   margin: 0;
   text-align: center;
+    font-family: sans-serif;
+
 }
-
-
-
 h1{
   color: grey;
+  margin: 0 auto;
+  font-family: 'verdana',sans-serif;
+  font-size: 1.625em;
+}
+h2{
+  color: grey;
+  font-family: 'Monteserrat', sans-serif;
+  font-size: 5.625em;
+  font-weight: normal;
 }
 
 .containerone{
   background-color: black;
-  width: 1500px;}
+  width: auto;}
+
 .containertwo{
   background-color: grey;
-  width: 1500px;
+  width: auto;
+  margin: 50px auto 50px auto;
 }
 .containerthree{
   background-color: black;
-  height: 1000px;
-  width: 1500px;
+  width: auto;
 }
 .containerfour{
   background-color: black;
-  width: 1500px;
+  width: auto;
+  height: 1000px;
 }
 td{
 color: grey;
@@ -31,7 +41,7 @@ font-size: 20px;
 }
 p{
 color: grey;
-font-style: oblique;
+font-style: 'verdana',sans-serif;
 font-size: 20px;
 display: inline-block;
 }
